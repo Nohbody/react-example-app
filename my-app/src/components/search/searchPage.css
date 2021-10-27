@@ -1,0 +1,26 @@
+.searchInput {
+    width: 20vw;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.jokeCardList {
+    list-style-type: none;
+    width: 100%;
+    height: 40vh;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    grid-template-rows: 50% 50%;
+}
+
+.jokeCardList > li > a {
+    text-decoration: none;
+    color: black;
+}
+
+.jokeCardList > li :hover {
+    background-color:lightgray;
+}

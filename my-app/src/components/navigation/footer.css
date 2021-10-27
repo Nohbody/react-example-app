@@ -1,0 +1,9 @@
+.footerWrapper  {
+    width: 100%;
+    bottom: 0%;
+    position: fixed;
+}
+
+.copyright {
+    font-weight: bolder;
+}

@@ -1,0 +1,10 @@
+.pageWrapper {
+    width: 80vw;
+    height: 70vh;
+    margin: auto;
+    text-align: center;
+}
+
+.pageHeader {
+    font-size: 10vh;
+}

@@ -1,0 +1,24 @@
+.highlight {
+    font-weight: bold;
+    background-color: transparent;
+}
+
+.cardWrapper {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    overflow-y: auto;
+}
+
+.textWrapper {
+    display: flex;
+    padding: 10px;
+    margin: auto;
+}
+
+.textWrapper > span {
+    margin: auto;
+}
